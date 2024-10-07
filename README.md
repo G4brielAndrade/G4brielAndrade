@@ -4,6 +4,7 @@
 - 🌱 I'm currently studying C++ and Pyhton
 - 😄 Pronouns: he/him
 
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=G4brielAndrade&show_icons=true&theme=merko)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
