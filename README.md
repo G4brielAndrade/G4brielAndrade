@@ -24,7 +24,8 @@
   <a href="https://www.linkedin.com/in/gabriel-andrade-%D8%AC%D8%A8%D8%B1%D9%8A%D9%84-25a479237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![Snake animation](https://github.com/G4brielAndrade/G4brielAndrade/blob/output/github/contribution-grid-snake.sgv)
+
+![Snake animation](https://github.com/G4brielAndrade/G4brielAndrade/blob/output/github-contribution-grid-snake.sgv)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=G4brielAndrade&repo=G4brielAndrade&theme=react)](https://github.com/G4brielAndrade/G4brielAndrade)
 
