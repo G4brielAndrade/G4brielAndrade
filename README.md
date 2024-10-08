@@ -25,8 +25,4 @@
   
 </div>
 
-![Snake animation](https://github.com/G4brielAndrade/G4brielAndrade/blob/output/github-contribution-grid-snake.sgv)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=G4brielAndrade&repo=G4brielAndrade&theme=react)](https://github.com/G4brielAndrade/G4brielAndrade)
-
 
