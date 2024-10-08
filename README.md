@@ -11,8 +11,8 @@
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gab-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gab-Python" height="30" width="40" src="https://www.svgrepo.com/show/373618/gamemaker2.svg">
-  <img align="center" alt="Gab-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">  
+  <img align="center" alt="Gab-gml" height="30" width="40" src="https://www.svgrepo.com/show/373618/gamemaker2.svg">
+  <img align="center" alt="Gab-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">  
   <img align="right"  alt="Gab-lokigif" src="https://i.pinimg.com/originals/e2/c2/4d/e2c24d840ebb073dd8e73d802c8e20c6.gif">
 </div>
   
