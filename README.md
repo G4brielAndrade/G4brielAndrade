@@ -2,7 +2,7 @@
 
 - 🔭 I currently work with Games. I'm a game developer at InvolkerStudios.
 - 🌱 I'm currently studying C++ and Pyhton
-- 😄 Pronouns: he/him
+- 😄 making codes come to life
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=G4brielAndrade&show_icons=true&theme=merko)
 
