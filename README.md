@@ -1,6 +1,6 @@
 ## Hello there, i'm Gabriel Andrade
 
-- 🔭 I currently work with Games. I'm a game developer at InvolkerStudios.
+- 🔭 I currently work with Games, websites and ERP. I'm a game CTO at InvolkerStudios.
 - 🌱 I'm currently studying C++ and Pyhton
 - 😄 Turning codes into life
 
