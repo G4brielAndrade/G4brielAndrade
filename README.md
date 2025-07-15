@@ -1,6 +1,8 @@
 ## Hello there, i'm Gabriel Andrade
 
-- 🔭 I currently work with Games, websites and ERP. I'm a game CTO at InvolkerStudios.
+- 💻 Graduated in Systems Analysis and Development.
+- 🎓 Postgraduate degree in Information Technology Management and Governance. 
+- 🔭 I currently work with Games, websites and ERP. I'm a CTO at InvolkerStudios.
 - 🌱 I'm currently studying C++ and Pyhton
 - 😄 Turning codes into life
 
