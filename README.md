@@ -3,7 +3,7 @@
 - 💻 Graduated in Systems Analysis and Development.
 - 🎓 Postgraduate degree in Information Technology Management and Governance. 
 - 🔭 I currently work with Games, websites and ERP. I'm a CTO at InvolkerStudios.
-- 🌱 I'm currently studying C++ and Pyhton
+- 🌱 I'm currently studying Java
 - 😄 Turning codes into life
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=G4brielAndrade&show_icons=true&theme=merko)
