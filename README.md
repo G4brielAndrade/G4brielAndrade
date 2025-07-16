@@ -6,7 +6,25 @@
 - 🌱 I'm currently studying Java
 - 😄 Turning codes into life
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=G4brielAndrade&show_icons=true&theme=merko)
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=G4brielAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielAndrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
