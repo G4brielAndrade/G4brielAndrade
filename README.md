@@ -6,7 +6,7 @@
 - 🌱 I'm currently studying Java
 - 😄 Turning codes into life
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -71,7 +71,7 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
