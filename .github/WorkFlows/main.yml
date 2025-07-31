@@ -1,25 +1,23 @@
-# Nome da Actions:  
+# Nome da Actions:
 name: Snake Game
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
+# Quando a Action será executada
 on:
   schedule:
-      # Será atualizado a cada 1 horas.
-      - cron: "0 */1 * * *"  #
-
-# Permite executar na na lista de Actions (utilizado para testes de build).
+    # Atualiza a cada 1 hora
+    - cron: "0 */1 * * *"
+  # Permite execução manual via botão no GitHub
   workflow_dispatch:
 
-# Regras
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      # Faz o checkout do repositório
+      - uses: actions/checkout@v3
 
-    # Repositorio que será utilizado para gerar os arquivos.
+      # Gera os arquivos da cobrinha
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -27,9 +25,16 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Configura Git para poder dar commit, se necessário
+      - name: Config Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      # Mostra o status do repositório (debug)
       - run: git status
 
-      # Para as atualizações.
+      # Faz push das mudanças geradas
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
@@ -37,9 +42,9 @@ jobs:
           branch: master
           force: true
 
+      # Publica os arquivos da pasta dist na branch output
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
