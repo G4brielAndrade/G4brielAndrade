@@ -89,12 +89,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielAndrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 </p>
-
-### 🐍 Snake Game
-
-<p align="center">
-  <img 
-    alt="snake animation" 
-    src="https://raw.githubusercontent.com/G4brielAndrade/G4brielAndrade/output/dist/github-contribution-grid-snake.svg" 
-  />
-</p>
