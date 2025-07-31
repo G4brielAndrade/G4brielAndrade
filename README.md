@@ -90,3 +90,12 @@
   />
 </p>
 
+### 🐍 Snake Game
+
+<p align="center">
+  <img 
+    alt="snake animation" 
+    src="https://raw.githubusercontent.com/G4brielAndrade/G4brielAndrade/output/github-contribution-grid-snake.svg" 
+  />
+</p>
+
