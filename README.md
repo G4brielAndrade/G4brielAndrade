@@ -1,10 +1,10 @@
 ## Hello there, i'm Gabriel Andrade
 
-- 💻 Graduated in Systems Analysis and Development.
-- 🎓 Postgraduate degree in Information Technology Management and Governance. 
-- 🔭 I currently work with Games, websites and ERP. I'm a CTO at InvolkerStudios.
-- 🌱 I'm currently studying Java
-- 😄 Turning codes into life
+- 💻 Graduated in Systems Analysis and Development
+- 🎓 Postgraduate in IT Management and Governance
+- 🔭 Currently working with games, websites, and ERP systems — serving as CTO at Involker Studios
+- 🌱 Currently learning Java
+- 😄 Passionate about turning code into experiences
 
 ### 🤖 Languages and Technologies
 
