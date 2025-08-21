@@ -89,3 +89,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielAndrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
   />
 </p>
+
+![github-contribution-grid-snake](https://github.com/G4brielAndrade/G4brielAndrade/blob/output/dist/github-contribution-grid-snake.gif?raw=true )
+
