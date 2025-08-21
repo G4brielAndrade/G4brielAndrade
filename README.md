@@ -9,7 +9,6 @@
 ### 🤖 Languages and Technologies
 
 <img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -17,7 +16,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -25,7 +23,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -33,7 +30,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
     alt="gml"
     title="gml" 
     width="30px" 
@@ -41,7 +37,6 @@
     src="https://www.svgrepo.com/show/373618/gamemaker2.svg" 
 />
 <img 
-    align="left" 
     alt="C++"
     title="C++" 
     width="30px" 
@@ -49,7 +44,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -57,16 +51,15 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+<br clear="left"/> <!-- Limpa o float para que o próximo conteúdo não fique ao lado das imagens -->
   
-  ##
- 
+
+
+<!-- Links Sociais -->
 <div> 
   <a href="https://www.instagram.com/g4briel_andr4de" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielandrade8@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-andrade-%D8%AC%D8%A8%D8%B1%D9%8A%D9%84-25a479237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 ---
@@ -90,5 +83,9 @@
   />
 </p>
 
+<br clear="left"/> <!-- Limpa o float para que o Snake Game não fique ao lado das estatísticas -->
+
+<!-- Snake Game -->
 ![github-contribution-grid-snake](https://github.com/G4brielAndrade/G4brielAndrade/blob/output/dist/github-contribution-grid-snake.gif?raw=true )
+
 
