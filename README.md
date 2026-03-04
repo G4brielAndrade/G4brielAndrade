@@ -78,14 +78,14 @@
 
 <p align="center">
   <img
-    alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=G4brielAndrade&show_icons=true&theme=tokyonight&include_all_commits=true"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=G4brielAndrade&show_icons=true&theme=tokyonight&include_all_commits=true"
   />
   <img
-    alt="Top Langs"
     height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=G4brielAndrade&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Top Langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=G4brielAndrade&layout=compact&theme=tokyonight&langs_count=8"
   />
 </p>
 
