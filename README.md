@@ -74,25 +74,27 @@
 
 ---
 
-### 📊 Statistics
+---
+
+### 🔥 Commit Streak
 
 <p align="center">
-  <img
+  <img 
     height="200"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=G4brielAndrade&show_icons=true&theme=tokyonight&include_all_commits=true"
-  />
-  <img
-    height="200"
-    alt="Top Langs"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=G4brielAndrade&layout=compact&theme=tokyonight&langs_count=8"
+    src="https://streak-stats.demolab.com?user=G4brielAndrade&theme=tokyonight&hide_border=true"
   />
 </p>
 
-<br clear="left"/>
+---
+
+### 📈 Activity Graph
+
+[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G4brielAndrade&theme=tokyo-night)](https://github.com/G4brielAndrade)
 
 ---
 
-### 🐍 Contribution Snake
+### 💬 Dev Quote
 
-![github contribution grid snake](https://raw.githubusercontent.com/G4brieIAndrade/G4brieIAndrade/output/github-contribution-grid-snake.svg)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
