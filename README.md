@@ -67,25 +67,22 @@
 ### 📊 Statistics
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=G4brielAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=G4brieIAndrade&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800"
   />
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielAndrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+  <img
+    align="left"
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=G4brieIAndrade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&cache_seconds=1800"
   />
 </p>
 
-<br clear="left"/> <!-- Limpa o float para que o Snake Game não fique ao lado das estatísticas -->
+<br clear="left"/>
 
-<!-- Snake Game -->
-![github-contribution-grid-snake](https://github.com/G4brielAndrade/G4brielAndrade/blob/output/dist/github-contribution-grid-snake.gif?raw=true )
-
-
+![github contribution grid snake](https://raw.githubusercontent.com/G4brieIAndrade/G4brieIAndrade/output/dist/github-contribution-grid-snake.gif)
