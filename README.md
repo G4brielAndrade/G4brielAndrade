@@ -67,7 +67,7 @@
   <a href="mailto:gabrielandrade8@yahoo.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-andrade-%D8%AC%D8%A8%D8%B1%D9%8A%D9%84-25a479237/" target="_blank">
+  <a href="www.linkedin.com/in/gabriel-andrade5" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
