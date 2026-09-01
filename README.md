@@ -1,6 +1,6 @@
 ## Hello there, i'm Gabriel Andrade
 
-- 🌐 CEO and Co-founder UltraCode
+- 🌐 CEO and Co-founder Ultracode
 - 💻 Graduated in Systems Analysis and Development
 - 🎓 Postgraduate in IT Management and Governance
 - 🧑‍💻 Former CTO at Involker Studios
