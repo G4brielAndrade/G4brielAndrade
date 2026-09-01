@@ -130,12 +130,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G4brielAndrade&theme=tokyo-night&hide_border=true)](https://github.com/G4brielAndrade)
-
----
-
 ### 💬 Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
